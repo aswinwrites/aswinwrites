@@ -29,6 +29,6 @@ A knight and bishop that only land on days I actually shipped something.
 
 ### :round_pushpin: Off the keyboard
 
-![Aswin, off the keyboard](assets/profile.jpg)
+![Aswin, off the keyboard](assets/GqHLoJiW8AEU8Ml.jpeg)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswinwrites@gmail.com)
