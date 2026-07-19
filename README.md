@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Website-aswinsampathkumar.in-1f2328?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aswinsampathkumar.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aswin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin5/)
 
-I build tools, dig into stocks, and ship side projects fast. Off-screen you'll find me over a chessboard, a few chapters into a book, researching a stock I probably won't buy, or out on a motorcycle ride with no fixed destination.
+Growth marketer by trade who is obsessed with finding scalable growth loops and unconventional ways to move the metrics that matter. Recently, I've been hooked on vibe coding with Claude—building tools, shipping side projects, and automating anything I can. I'm equally fascinated by markets, psychology, and technology, so you'll often find me researching stocks, reading, or chasing down rabbit holes on the internet. Away from the screen, it's usually chess, nature walks, books or a motorcycle ride exploring the wilderness.
 
 ---
 
